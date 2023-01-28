@@ -24,11 +24,14 @@ The advancements in Deep Learning technologies
 For e.g., Convolutional neural networks have made great strides in the field of deep learning in recent years.
 CNN are major advances in computer vision (CV), and applications for self-driving cars, robotics, drones, security,medical diagnoses, and treatments for the visually impaired.
 
-References:
-pytorch
-https://www.kaggle.com/code/birajde/indian-sign-language-dataset/notebook
+Dataset collection from Roboflow:
+https://public.roboflow.com/object-detection/american-sign-language-letters
 
-tensorflow
+References:
+100 % accuracy with resnet9 using pytorch
+https://www.kaggle.com/code/birajde/indian-sign-language-dataset/data
+
+100 % accuracy with inception_resnet_v2 using tensorflow
 https://www.kaggle.com/code/vexxingbanana/indian-sign-language-100-acc/notebook
 
 
